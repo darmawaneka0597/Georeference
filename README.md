@@ -1,7 +1,7 @@
 # Georeference of Point Cloud from GeoLiDAR Equipment
 
  
-**Candidate Name:** Darmawan  
+**Candidate Name:** Darmawan Wicaksono
 
 ## Introduction
 
@@ -32,7 +32,4 @@ The final georeferenced point cloud can be seen in the videos below, illustratin
 
 Through this project, I have demonstrated the process of transforming and verifying a point cloud dataset from a local reference system to the EPSG:26985 system. This georeferencing allows for standardized integration of the data in broader spatial analyses and applications.
 
----
-
-**Note:** Replace `path/to/flowchart-image.png` and `path/to/video1.mp4`, `path/to/video2.mp4` with the actual paths to your flowchart image and videos.
 
