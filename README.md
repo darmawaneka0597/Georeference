@@ -15,7 +15,7 @@ The georeferencing process involves several key steps, which are outlined in the
 
 ### Step-by-Step Explanation
 
-1. **Data Import and Preprocessing:** Import the point cloud data, verify data integrity, and prepare it for transformation.
+1. **Data Import, Checking and Preprocessing:** Import the point cloud data, verify data integrity, and prepare it for transformation.
 2. **Transformation to EPSG:26985:** Convert the data from its original reference system to EPSG:26985, ensuring all necessary alignment checks.
 3. **Verification and Quality Control:** Cross-check the georeferenced data for accuracy, confirming the transformation's success.
 4. **Export of Final Dataset:** Export the georeferenced dataset for further analysis or application.
@@ -24,8 +24,8 @@ The georeferencing process involves several key steps, which are outlined in the
 
 The final georeferenced point cloud can be seen in the videos below, illustrating the transformation from the local reference system to EPSG:26985:
 
-- [Video 1](path/to/video1.mp4)
-- [Video 2](path/to/video2.mp4)
+- [Video 1](https://www.youtube.com/watch?v=mTUAYxJaoQw)
+- [Video 2](https://www.youtube.com/watch?v=AfLoG1WUx2s)
 
 ## Conclusion
 
