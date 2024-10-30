@@ -23,10 +23,9 @@ The georeferencing process involves several key steps, which are outlined in the
 ## Results
 
 The final georeferenced point cloud can be seen in the videos below, illustrating the transformation from the local reference system to EPSG:26985:
-Visualisation with ArcGIS Pro
-- [Video 1](https://www.youtube.com/watch?v=mTUAYxJaoQw)
- Visualisation with Cloud Compare
-- [Video 2](https://www.youtube.com/watch?v=AfLoG1WUx2s)
+
+- Visualisation with ArcGIS Pro [Video 1](https://www.youtube.com/watch?v=mTUAYxJaoQw)
+- Visualisation with Cloud Compare [Video 2](https://www.youtube.com/watch?v=AfLoG1WUx2s)
 
 ## Conclusion
 
