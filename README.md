@@ -27,6 +27,7 @@ The final georeferenced point cloud can be seen in the videos below, illustratin
 - Visualisation with ArcGIS Pro [Video 1](https://www.youtube.com/watch?v=mTUAYxJaoQw)
 - Visualisation with Cloud Compare [Video 2](https://www.youtube.com/watch?v=AfLoG1WUx2s)
 
+(Disclaimer: I will delete the videos in 72 hours for safety and privacy reason.)
 ## Conclusion
 
 Through this project, I have demonstrated the process of transforming and verifying a point cloud dataset from a local reference system to the EPSG:26985 system. This georeferencing allows for standardized integration of the data in broader spatial analyses and applications.
